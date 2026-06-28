@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Malos Adoptantes",
+  "description": "Plataforma de consulta y reporte de malos adoptantes y maltratadores de animales para refugios y rescatistas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
